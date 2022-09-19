@@ -42,3 +42,4 @@ price=input("Enter the cost of laptop:")
 
 print(laptop_info(name,model,price))
 
+  
